@@ -6,4 +6,8 @@ QoL I added:
 - Alternate tuning selection
 - Intonation shift
 
-![Image of the app](./docs/screenshot.png)
+## Screenshots 
+
+<div align="center">
+<img src="./docs/screenshot.png" alt="Image of the app" style="max-width: 400px; width: 100%; height: auto;" />
+</div>
